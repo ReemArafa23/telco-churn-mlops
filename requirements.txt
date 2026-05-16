@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+numpy
+joblib
+python-multipart
+seaborn
+matplotlib
+missingno
+mlflow
+xgboost
+lightgbm
+imbalanced-learn
+prometheus-fastapi-instrumentator
+prometheus-client
+psutil
